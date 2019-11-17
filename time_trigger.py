@@ -20,5 +20,4 @@ print("Current Time: ", current_time)
 # --------------------------------------------------------------------------------
 quote = "An optimistic man is the one who thinks even bullshit is a fertilizer!"
 print(quote)
-print(quote)
 # --------------------------------------------------------------------------------
